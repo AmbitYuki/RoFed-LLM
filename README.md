@@ -11,12 +11,6 @@
 
 This document provides comprehensive instructions on how to set up and run a federated learning project that leverages large language models (LLMs). The project is organized into several directories and scripts, each serving a specific purpose in the federated learning workflow. The instructions herein are intended to ensure that users can seamlessly navigate, configure, and execute the project components in a manner that is both efficient and effective.
 
-<div align="center">
-  
-  ![Federated Learning Architecture](https://github.com/placeholder/architecture.png)
-  
-  *Figure 1: Schematic representation of the federated learning architecture with LLMs*
-</div>
 
 ## ⚠️ Prerequisites
 
